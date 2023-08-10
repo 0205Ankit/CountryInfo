@@ -10,7 +10,7 @@ steps:----
 
 3:-- run " npm run dev " to spun up the development server on your browser
 
-4:-- hosted link ----- ( )
+4:-- hosted link ----- ( https://country-info-indol.vercel.app/ )
 
 
 features :--
